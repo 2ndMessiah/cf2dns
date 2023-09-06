@@ -6,11 +6,12 @@ on:
     branches: 
       - master
   schedule:
-    - cron: '0 23,11 * * *'
+    - cron: '0 1,11 * * *'
+            
 
 env:
   UPDATE_IPV4: true
-  UPDATE_IPV6: true
+  # UPDATE_IPV6: true
 jobs:
   build:
     runs-on: ubuntu-latest
