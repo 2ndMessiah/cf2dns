@@ -3,6 +3,8 @@
 2023-12-30
 
 2024-03-12
+
+2024-04-16
 ### 修复腾讯云 DNS 无法调用 --update 2023.1.3
    [API 2.0下线通知](https://cloud.tencent.com/document/product/1278/82311) 
 
